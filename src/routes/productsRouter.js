@@ -1,11 +1,13 @@
+/*Archivo de rutas de productos*/
+
 const express = require("express");
 const router= express.Router();
-const productsController = require("../productsController.js");
+const productsController = require("../controllers/productsController");
 
 
-router.get("/", productsController.index);
+router.get("/products", productsController.index);
 
-router.get("/:id", productsController.show);
+router.get("/products/:id", productsController.show);
 
 
 //Siempre EXPORTAR router
