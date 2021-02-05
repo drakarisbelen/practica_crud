@@ -12,5 +12,9 @@ show: (req,res) => {
     console.log("param recibido", req.params.id)
     let product = products.find(product => product.id == req.params.id);
     res.send(product);
-}   
+},
+store: (req,res)  => {
+    //console.log("lo que me llego", req.body);
+    res.send("graciaaa");
+}
 };

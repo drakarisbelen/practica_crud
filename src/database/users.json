@@ -1,0 +1,37 @@
+[
+        {
+         "first_name": "Karina",
+         "last_name": "Escobar",
+         "email": "kari.belen@gmail.com",
+         "password": "",
+         "category": "vendedor",
+         "id": 3
+        },
+        {
+         "id": 4,
+         "first_name": "Lucia",
+         "last_name": "Escobar",
+         "email": "lucy.florencia@g,gmail.com",
+         "password": "EUdApoL",
+         "category": "vendedor",
+         "image": null
+        },
+        {
+         "id": 8,
+         "first_name": "Ezequiel",
+         "last_name": "Gonzalez",
+         "email": "ez@yahoo.com",
+         "password": "3jRjK81",
+         "category": "vendedor",
+         "image": null
+        },
+        {
+         "id": 10,
+         "first_name": "Javier",
+         "last_name": "Rodriguez",
+         "email": "crj@washington.edu",
+         "password": "dWoPzjU8",
+         "category": "vendedor",
+         "image": null
+        }
+       ]
